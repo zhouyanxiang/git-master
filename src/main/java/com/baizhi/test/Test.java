@@ -6,5 +6,6 @@ package com.baizhi.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("is Edit 1");
+        System.out.println("is Edit 2");
     }
 }
